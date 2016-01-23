@@ -1,6 +1,20 @@
 .first-div {
-	height: 600px;
-	width: 1000px;
+	height: 450px;
+	width: 500px;
 	position: relative;
 	display: block;
+	background-color: #79afe1;
+	text-align: center;
+}
+
+#container {
+    margin: 0px auto;
+    height: 400px;
+    width: 475px;
+    border: 10px #333 solid;
+}
+#videoElement {
+    height: 400px;
+    width: 475px;
+    background-color: #666;
 }
